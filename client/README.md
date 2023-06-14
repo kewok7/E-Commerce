@@ -1,3 +1,6 @@
+# GitHub Link :
+https://github.com/kewok7/E-Commerce
+
 # FINAL PROJECT NAME :
 
 E-Commerce web site ===> FIGPI STORE
